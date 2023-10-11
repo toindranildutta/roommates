@@ -1,0 +1,10 @@
+.container-fluid {
+    height: 100vmax;
+    background-size: contain;
+    color: black;
+}
+
+.box {
+    height: 100vmax;
+    width: 100vmax;
+}
